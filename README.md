@@ -1,12 +1,9 @@
-# react-draggable [![Build Status](https://travis-ci.org/mzabriskie/react-draggable.svg?branch=master)](https://travis-ci.org/mzabriskie/react-draggable)
+# react-draggable
 
 A simple component for making elements draggable.
 
-[View the Changelog](CHANGELOG.md)
-
-## Demo
-
-[View Demo](http://mzabriskie.github.io/react-draggable/example/)
+## This version is prepared to Internet Explorer 9 (and other better browsers) and React 0.14.
+### Based on 0.8.5 version.
 
 
 ## Installing
